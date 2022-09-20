@@ -1,6 +1,6 @@
-- 👋 <h1>Hi there, I’m [MysteriousMsn](https://mysteriousmsn.blogspot.com)</h4>
-- 👀 I’m interested in coding
-- 🌱 I like to learn new programming language and techniques
+- <h1>👋 Hi there, I’m [MysteriousMsn](https://mysteriousmsn.blogspot.com) from India</h4>
+- 👀 I am passionate about coding
+- 🌱 I like to learn technology in deep
 - 📫 you can reach me on mohsinsunasara60@gmail.com
 
 
