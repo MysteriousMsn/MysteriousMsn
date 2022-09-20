@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m <a href=”https://mysteriousmsn.blogspot.com" target=”_blank” rel=”noreferrer”>MysteriousMsn</a> 👋
+- 👋 Hi there, I’m [MysteriousMsn](https://mysteriousmsn.blogspot.com)
 - 👀 I’m interested in coding
 - 🌱 I like to learn new programming language and techniques
 - 📫 you can reach me on mohsinsunasara60@gmail.com
