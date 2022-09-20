@@ -1,4 +1,4 @@
-- <h1>👋 Hi there, I’m [MysteriousMsn](https://mysteriousmsn.blogspot.com) from India</h4>
+- <h1>👋 Hi there, I’m <a href="https://mysteriousmsn.blogspot.com">MysteriousMsn</a></h4>
 - 👀 I am passionate about coding
 - 🌱 I like to learn technology in deep
 - 📫 you can reach me on mohsinsunasara60@gmail.com
